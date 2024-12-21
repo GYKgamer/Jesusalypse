@@ -60,13 +60,13 @@ namespace _2pacalypse
             int port;
             if (!int.TryParse(textBox2.Text, out port) || port < 1 || port > 65536)
             {
-                MessageBox.Show("yoyo that no valid port bruh", "2pacalypse 2.4", MessageBoxButtons.OK);
+                MessageBox.Show("Jesus here, that port is not valid", "Jesusalypse 8.8.8", MessageBoxButtons.OK);
                 return;
             }
 
             if (result.Count != 1)
             {
-                MessageBox.Show("yoyo chill invalid ip homie", "2pacalypse 2.4", MessageBoxButtons.OK);
+                MessageBox.Show("Jesus here, that ip is not valid", "Jesusalypse 8.8.8", MessageBoxButtons.OK);
                 return;
             }
 
