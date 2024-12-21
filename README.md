@@ -1,7 +1,6 @@
 # Jesusalypse
 
-![Jesus 4 lyfe](![image](https://github.com/user-attachments/assets/c0af329c-34b5-42d7-bcca-1fbdea0a2a71)
-)
+(![image](https://github.com/user-attachments/assets/c0af329c-34b5-42d7-bcca-1fbdea0a2a71))
 
 ------------------------------------------------------------------------------------------------------------------
 ## tutorial
